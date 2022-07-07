@@ -31,7 +31,7 @@
 
   <ItemGroup>    
     <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="1.0.2" />
-    <PackageReference Include="Microsoft.AspNetCore.Http" Version="1.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.1.22" />
     <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="1.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="1.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="1.0.3" />
